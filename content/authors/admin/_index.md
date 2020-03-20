@@ -3,46 +3,30 @@ authors:
 - admin
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- High Throughput Phenotyping
+- Scientific Software
+- Data Management
+name: DIgital Agriculture Group
 organizations:
-- name: Stanford University
+- name: University of Arizona
   url: ""
-role: Professor of Artificial Intelligence
+role: Data Science Institute
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/DigitalAgGroup
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/az-digitalag
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our software will be used and collaboratively developed by researchers at major land grant universities, global ag research centers (e.g. CG), and industry. We will enable scientists to spend less time engineering bespoke pipelines and collecting redundant data so that they can spend more time developing algorithms, augmenting existing data with strategic data collection, and analyzing data.
