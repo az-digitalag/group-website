@@ -9,7 +9,7 @@ title = "Kristina Riemer"
 summary = "Scientific Programmer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kristina-riemer.png"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 tags = ["current"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "kristina-riemer.png"
+image = ""
 caption = ""
 
 +++
