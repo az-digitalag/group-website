@@ -26,6 +26,10 @@ subtitle = ""
     tag = "current"
   
   [[content.filter_button]]
+    name = "Affiliate"
+    tag = "affiliate"
+  
+  [[content.filter_button]]
     name = "Past"
     tag = "past"
 
