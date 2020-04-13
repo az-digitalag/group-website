@@ -1,8 +1,8 @@
-### How to Make Changes to the Group Website
+## How to Make Changes to the Group Website
 
-#### A. From your own forked repo
+### A. From your own forked repo
 
-##### I. Getting Started
+#### I. Getting Started
 
 1. Fork the original [repo](https://github.com/az-digitalag/group-website)
 2. If you do not already have RStudio installed, follow these [instructions](https://rstudio.com/products/rstudio/download/)
@@ -11,7 +11,7 @@
 5. To preview the website locally, use the command `blogdown::serve_site()` in the console
 6. You should now be able to preview the group website within RStudio, or copy and paste the url provided in the console into your browser. 
 
-##### II. Keeping your forked repo up to date with new changes from the command line
+#### II. Keeping your forked repo up to date with new changes from the command line
 
 1. From within your repo, check your currently configured remote repositories using `git remote -v`
 2. If you only see your own repositories with your username, configure a new upstream repo with `git remote add upstream https://github.com/az-digitalag/group-website.git`
@@ -21,4 +21,12 @@
 6. To merge changes from upstream/master to your own local master, use `git merge upstream/master`
 7. To push the new changes to your github repo, use `git push origin master`
 
-#### B. From a branch in az-digitalag/group-website repo
+#### III. How to add a team member to the People section
+
+1. Within the repo in RStudio, open the `content` > `people` folders
+2. Create a folder with the naming format of `new-person` 
+3. To include a photo or headshot in the bio, upload a `.png` image to that person's folder named `featured.png`
+4. Copy `index.md` from another team member's folder and update with new information. Remember to change the team member tag to `current`, `affiliate`, or `past` as needed.
+5. Commit and push your local changes to your forked repo and create a pull request in the original repo with these changes. 
+
+### B. From a branch in az-digitalag/group-website repo
