@@ -1,31 +1,51 @@
 +++
-# A "Meet the Team" section created with the People widget.
-# This section displays people from `content/authors/` which belong to the `user_groups` below.
-
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Projects section created with the Portfolio widget.
+widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "People"
 subtitle = ""
 
 [content]
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+  # Page type to display. E.g. project.
+  page_type = "people"
+  
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "Current"
+    tag = "current"
+  
+  [[content.filter_button]]
+    name = "Affiliate"
+    tag = "affiliate"
+  
+  [[content.filter_button]]
+    name = "Past"
+    tag = "past"
 
 [design]
-  # Show user's social networking links? (true/false)
-  show_social = false
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
-  # Show user's interests? (true/false)
-  show_interests = true
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -54,3 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
