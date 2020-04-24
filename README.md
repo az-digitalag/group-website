@@ -1,4 +1,5 @@
 ## How to Make Changes to the Group Website
+_Note: All instructions with general git / github workflows can be moved / linked to OSF [pages](https://osf.io/tzmhp/wiki/home/)_
 
 ### A. From your own forked repo
 
@@ -24,9 +25,20 @@
 #### III. How to add a team member to the People section
 
 1. Within the repo in RStudio, open the `content` > `people` folders
-2. Create a folder with the naming format of `new-person` 
+2. Create a folder with the naming format of `new-person`
 3. To include a photo or headshot in the bio, upload a `.png` image to that person's folder named `featured.png`
 4. Copy `index.md` from another team member's folder and update with new information. Remember to change the team member tag to `current`, `affiliate`, or `past` as needed.
 5. Commit and push your local changes to your forked repo and create a pull request in the original repo with these changes. 
+
+#### IV. How to add a blog post
+
+1. Within the repo in RStudio, open the `content` > `post` folders
+2. As with the People section, copy an existing blog post and rename it using the `YYYY-MM-DD-name-of-post.md` format
+3. Change the metadata at the top of the file as needed (i.e. `title`, `authors`, `date`, and `slug`)
+4. Use Markdown [syntax](https://www.markdownguide.org/basic-syntax/) to write the post. 
+5. Commit and push your local changes to your forked repo and create a pull request in the original repo with these changes. 
+
+#### V. How to add images to a blog post
+TBD (function that moves images automatically to the `static` folder?)
 
 ### B. From a branch in az-digitalag/group-website repo
