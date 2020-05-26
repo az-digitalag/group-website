@@ -1,7 +1,6 @@
 ## How to Make Changes to the Group Website
 Note: General instructions for git / git workflow can be found on our group's OSF [page](https://osf.io/tzmhp/wiki/Using%20Git%20and%20GitHub/)
 
-### A. From your own forked repo
 
 #### I. Getting Started
 
