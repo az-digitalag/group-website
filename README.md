@@ -5,7 +5,7 @@ Note: General instructions for git / git workflow can be found on our group's OS
 
 #### I. Getting Started
 
-1. Fork the original [repo](https://github.com/az-digitalag/group-website)
+1. Either clone the original [repo](https://github.com/az-digitalag/group-website) to your local computer and always work off of a non-master branch, or fork the original repo and clone the forked repo to your computer. You can additionally work off of a branch on the forked repo if you'll be working on multiple different tasks at a time. 
 2. If you do not already have RStudio installed, follow these [instructions](https://rstudio.com/products/rstudio/download/)
 3. Open RStudio and navigate to your forked repo
 4. If not already downloaded, install the blogdown and hugo packages using these [instructions](https://bookdown.org/yihui/blogdown/installation.html)
