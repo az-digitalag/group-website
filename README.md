@@ -17,7 +17,6 @@ Note: General instructions for git / git workflow can be found on our group's OS
 2. Create a folder with the naming format of `new-person`
 3. To include a photo or headshot in the bio, upload a `.png` image to that person's folder named `featured.png`
 4. Copy `index.md` from another team member's folder and update with new information. Remember to change the team member tag to `current`, `affiliate`, or `past` as needed.
-5. Commit and push your local changes to your forked repo and create a pull request in the original repo with these changes. 
 
 #### III. How to add a blog post
 
