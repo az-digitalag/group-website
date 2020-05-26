@@ -26,4 +26,3 @@ Note: General instructions for git / git workflow can be found on our group's OS
 3. Change the metadata at the top of the file as needed (i.e. `title`, `authors`, `date`, and `slug`)
 4. Use Markdown [syntax](https://www.markdownguide.org/basic-syntax/) to write the post
 5. To add images to your blog post, use the `Add-ins` drop down menu within RStudio and select `Insert Image`
-5. Commit and push your local changes to your forked repo and create a pull request in the original repo with these changes. 
