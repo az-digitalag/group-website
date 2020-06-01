@@ -32,7 +32,7 @@ The data are becoming more *Interoperable* and *Reusable* as we are converting t
 
 There are four initial datasets in the ARDN project, which are being converted to the ACE format and put on Ag Data Commons. 
 Each comes from a different institution. 
-A team at Michigan State is bringing data from [the Kellogg Biological Station LTER](http://www.kbs.msu.edu/), Lori Abenroth at Iowa State is contributing [the Corn CAP data](https://datateam.agron.iastate.edu/cscap/) (and already has [some of that data on ADC](https://data.nal.usda.gov/dataset/sustainable-corn-cap-research-data-usda-nifa-award-no-2011-68002-30190)), and the University of Georgia is contributing variety trials from the University of Georgia. 
+A team at Michigan State is bringing data from [the Kellogg Biological Station LTER](http://www.kbs.msu.edu/), Lori Abendroth at Iowa State is contributing [the Corn CAP data](https://datateam.agron.iastate.edu/cscap/) (and already has [some of that data on ADC](https://data.nal.usda.gov/dataset/sustainable-corn-cap-research-data-usda-nifa-award-no-2011-68002-30190)), and the University of Georgia is contributing variety trials from the University of Georgia. 
 Our team at the University of Arizona is converting and registering data from the [TERRA REF](https://www.terraref.org/) highthroughput phenotyping dataset. 
 
 Our group is focusing on converting the TERRA REF data that is accessible through the (plant) Breeder's API ([BrAPI](https://www.brapi.org/), Selby et al., 2019) into the ACE format.
@@ -44,8 +44,8 @@ We were lucky to have the BrAPI community coordinator, [Peter Selby](https://blo
 One of our goals during the hackathon week was to improve some of [our TERRA REF BrAPI endpoints](https://github.com/terraref/brapi/) to be more easily translatable to the ACE format, which we are continuing to do as we move forward. 
 This communication between the BrAPI and AgMIP communities will help inform future extensions of BrAPI to support more detailed geospatial, time series, and agronomic management data required by the agricultural modeling and high throughput phenotyping communities.  
 
-Our larger goal is to enable interoperability among datasets that adhere to one or more data and metadata format conventions. 
-By the conclusion of the ARDN project, our group will have enabled any BrAPI-compliant data source with the necessary minimum metadata to be easily converted to the ACE format. 
+Our larger goal is to enable greater interoperability among datasets that adhere to one or more data and metadata format conventions. 
+By the conclusion of the ARDN project, our group intends to make it possible for those BrAPI-compliant data sources, which have the relevant data and required minimum metadata, to be able to be easily converted to the ACE format. 
 Similarly, there should be a clear path for translating data annotated with Ecological Metadata Language into the ACE format. 
 
 The diagram below illustrates our idea:
@@ -54,7 +54,7 @@ The diagram below illustrates our idea:
 
 Having more data in a common format will make it easier for the modeling community to make use of the data that is so difficult to collect in the field. 
 It will also enable synthesis across studies, including cross-site and cross-species analyses. 
-To facilitate data harmonization, the UF team is building a tool that steps the user through how to convert tabular data to the ACE format; this tool is called VMapper [Cheryl: can we link to the Vmapper?].
+To facilitate data harmonization, the UF team is building a tool that steps the user through how to convert tabular data to the ACE format; this tool is called [VMapper](https://dssat2d-plot.herokuapp.com/demo/vmapper).
 
 Overall, the ARDN hackathon was a success.
 All of the teams involved made substantial progress converting their data and learning about Ag Data Commons submissions. 
