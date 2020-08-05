@@ -27,4 +27,11 @@ caption = ""
 
 +++
 
-David steers this ship
+
+Bioscience Research Labs Room 207
+1230 N Cherry Ave
+Tucson, AZ 85721
+520-621-4381
+dlebauer@email.arizona.edu
+
+David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.
