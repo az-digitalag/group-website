@@ -1,13 +1,8 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 email: ""
-interests:
-- High Throughput Phenotyping
-- Scientific Software
-- Data Management
 name: DIgital Agriculture Group
 organizations:
 - name: University of Arizona
