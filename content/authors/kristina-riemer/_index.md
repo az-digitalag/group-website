@@ -1,16 +1,16 @@
 ---
 # Display name
-name: David LeBauer
+name: Kristina Riemer
 
 # Username (this should match the folder name)
 authors:
-- david-lebauer
+- kristina-riemer
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Group Leader
+role: Scientific Programmer
 
 # Organizations/Affiliations
 organizations:
@@ -26,16 +26,16 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dlebauer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kristinariemer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dlebauer
+  link: https://twitter.com/KristinaRiemer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=Y___s5cAAAAJ
+  link: https://scholar.google.co.uk/citations?user=FZiLpUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/dlebauer
+  link: https://github.com/KristinaRiemer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,4 +51,4 @@ user_groups:
 - Current
 ---
 
-David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.
+Kristina is a scientific programmer in the Data Science Institute at the University of Arizona, where she focuses on running simulation models of crop ecosystems. She builds and documents software tools for scientific research, including PEcAn, and provides computational training for scientists, especially through The Carpentries organization. She promotes reproducible and open methods to facilitate scientific progress. She completed her PhD in ecology at the University of Florida working with Dr. Ethan White.

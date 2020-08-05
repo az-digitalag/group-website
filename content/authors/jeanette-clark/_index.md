@@ -1,20 +1,20 @@
 ---
 # Display name
-name: David LeBauer
+name: Jeanette Clark
 
 # Username (this should match the folder name)
 authors:
-- david-lebauer
+- jeanette-clark
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Group Leader
+role: Projects Data Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: University of Arizona
+- name: NCEAS
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,16 +26,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dlebauer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jclark@nceas.ucsb.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dlebauer
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=Y___s5cAAAAJ
+  link: https://twitter.com/sjeanetteclark
 - icon: github
   icon_pack: fab
-  link: https://github.com/dlebauer
+  link: https://github.com/jeanetteclark
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Affiliate
 ---
 
-David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.
+Jeanette is a projects data coordinator at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, where she works with researchers to help them make their synthesis work at NCEAS more reproducible and transparent. At the University of Arizona, Jeanette brings her expertise in data archival, metadata, and synthesis science to help make the primary data produced here more available and useful to other researchers.
