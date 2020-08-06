@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Julian Pistorius
+weight: 15
 
 # Username (this should match the folder name)
 authors:
@@ -45,7 +46,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Current Members
 ---
 
 Julian is a software engineer who specializes in scaling software 'up and out' using High Throughput Computing as well as cloud infrastructure. He has extensive experience in debugging, profiling and optimization of software. He also teaches these techniques to researchers. In addition he has experience testing, deploying, and supporting systems at scale on POSIX platforms. Julian's areas of interest include Machine Learning and Data Science Literacy.

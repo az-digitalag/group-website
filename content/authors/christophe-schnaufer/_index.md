@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Christophe Schnaufer
+weight: 25
 
 # Username (this should match the folder name)
 authors:
@@ -44,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Current Members
 ---
 
 Christophe Schnaufer is a scientific programmer with the Arizona Experiment Station, University of Arizona. He has a degree in computer science and over two decades of experience in software engineering and management, including fifteen years developing commercial airborne imagery applications and data processing pipelines. He is the lead developer of the UA drone pipeline infrastructure and is involved with standing up the processing pipeline at University of Arizona for the world's largest movable agricultural gantry.

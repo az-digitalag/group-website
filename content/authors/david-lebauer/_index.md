@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Group Leader
+role: Director of Data Science, Agricultural Experiment Station
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Group Leader
 ---
 
 David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.

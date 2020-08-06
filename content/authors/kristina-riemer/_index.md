@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Kristina Riemer
+weight: 20
 
 # Username (this should match the folder name)
 authors:
@@ -51,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Current Members
 ---
 
 Kristina is a scientific programmer in the Data Science Institute at the University of Arizona, where she focuses on running simulation models of crop ecosystems. She builds and documents software tools for scientific research, including PEcAn, and provides computational training for scientists, especially through The Carpentries organization. She promotes reproducible and open methods to facilitate scientific progress. She completed her PhD in ecology at the University of Florida working with Dr. Ethan White.

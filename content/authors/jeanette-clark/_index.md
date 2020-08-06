@@ -45,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliate
+- Affiliates
 ---
 
 Jeanette is a projects data coordinator at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, where she works with researchers to help them make their synthesis work at NCEAS more reproducible and transparent. At the University of Arizona, Jeanette brings her expertise in data archival, metadata, and synthesis science to help make the primary data produced here more available and useful to other researchers.

@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Ryan Bartelme
+weight: 5
 
 # Username (this should match the folder name)
 authors:
@@ -48,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Current Members
 ---
 
 Ryan Bartelme is a postdoctoral research associate at the University of Arizona School of Information. Ryan is actively working on implementing Bayesian Networks to predict plant phenotypes from environmental and genomic data. He received his interdisciplinary doctorate in Freshwater Sciences from the University of Wisconsin - Milwaukee, and a BS in Microbiology from the University of Wisconsin - Madison. His research background draws from a variety of scientific disciplines, including: genetics, microbial ecology and physiology, ecological statistics, computational biology, environmental chemistry, and aquaculture engineering.
