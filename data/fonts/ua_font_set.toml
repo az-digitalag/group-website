@@ -1,0 +1,8 @@
+# Font style metadata
+name = "UA"
+
+# Font families
+heading_font = "MiloSerifWeb, TimesNewRoman, \"Times New Roman\", Times, Baskerville, Georgia, serif"
+body_font = "MiloWeb, Verdana, Geneva, sans-serif"
+nav_font = "MiloWeb, Verdana, Geneva, sans-serif"
+mono_font = "Menlo, Monaco, Consolas, \"Courier New\", monospace"
