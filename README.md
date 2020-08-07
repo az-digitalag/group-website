@@ -37,7 +37,7 @@ The content for each publication goes in a folder `content/publication/author-YY
 
 This folder can be generated automatically from a bibtex file. Most reference management software and search portals (e.g. Mendeley, Zotero, Google Scholar) provide an option to export a citation as bibtex. There is a tool to automatically generate the folder, index.md, and cite.bib files for each publication using the shell command `academic import --bibtex <path_to_your/publication.bib>` following [the Academic Hugo documentation](https://sourcethemes.com/academic/docs/managing-content/#create-a-publication))
 
-A minimal set of yaml header fields are described in the [documentation](https://sourcethemes.com/academic/docs/managing-content/#manually). We have changed the default publication type 8 to be data publications (in `i18n/en.yaml`. 
+A minimal set of yaml header fields are described in the [documentation](https://sourcethemes.com/academic/docs/managing-content/#manually). We have changed the default publication type 8 to be data publications by editing `data/publication_types.toml` and `i18n/en.yaml` as described in the documentation. 
 
 Recommended fields to include in the index.md:  
 * `publication_types: ["8"]` 
@@ -45,6 +45,7 @@ Recommended fields to include in the index.md:
   2 = journal article
   8 = data publication (this is different than default for 8)
 * `doi`
-* `url` to website for related project 
+* `url` to website for related project; do not include `https://`.
 
-Add a featured image by placing an image file named `featured.*` in the `author-YYYY` directory. 
+Also:
+* To add a featured image: place an image file named `featured.*` in the publication (`publications/author-YYYY`) directory. 
