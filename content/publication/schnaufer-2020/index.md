@@ -4,7 +4,7 @@ date: 2020-05-28
 publishDate: 2020-08-05T21:26:26.413799Z
 authors: ["Christophe Schnaufer", "Julian L Pistorius", "David S LeBauer"]
 publication_types: ["1"]
-abstract: "Unoccupied areal vehicles (UAVs or drones) are increasingly used in field research.
+abstract: "Unoccupied aerial vehicles (UAVs or drones) are increasingly used in field research.
 Drones capable of routinely and consistently capturing high quality imagery of experimental fields have become relatively inexpensive.
 However, converting these images into scientifically useable data has become a bottleneck.
 A number of tools exist to support this workflow, but there is no framework for making these tools interopreable, sharable, and scalable.
@@ -23,4 +23,3 @@ featured: false
 publication: "Proceedings of SPIE"
 doi: "10.1117/12.2560008"
 ---
-
