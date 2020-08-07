@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "*Dryad Digital Repository*"
 doi: "10.5061/dryad.4b8gtht99"
-url: "https://terraref.org"
+url: "terraref.org"
 ---
 

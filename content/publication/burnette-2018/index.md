@@ -1,6 +1,7 @@
 ---
 title: "TERRA-REF data processing infrastructure"
 date: 2018-01-01
+url: terraref.org
 publishDate: 2020-08-05T21:26:26.417973Z
 authors: ["M. Burnette", "G.S. Rohde", "N. Fahlgren", "V. Sagan", "P. Sidike", "R. Kooper", "J.A. Terstriep", "T. Mockler", "P. Andrade-Sanchez", "R. Ward", "J.D. Maloney", "C. Willis", "M. Newcomb", "N. Shakoor", "D. LeBauer"]
 publication_types: ["1"]
@@ -9,4 +10,3 @@ featured: false
 publication: "*ACM International Conference Proceeding Series*"
 doi: "10.1145/3219104.3219152"
 ---
-
