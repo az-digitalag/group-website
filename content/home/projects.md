@@ -18,7 +18,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Project"
+  title = "Projects"
   content = "Select arrows to see current DIAG projects"
   align = "center"  # Choose `center`, `left`, or `right`.
 
