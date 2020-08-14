@@ -8,6 +8,5 @@ abstract: "Modern genomic breeding methods rely heavily on very large amounts of
 featured: false
 publication: "*Bioinformatics*"
 doi: "10.1093/bioinformatics/btz190"
-url: "https://brapi.org/"
+url: "brapi.org"
 ---
-
