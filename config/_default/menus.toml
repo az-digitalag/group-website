@@ -5,18 +5,28 @@
 
 [[main]]
   name = "People"
+  url = "#people"
+  weight = 10
+  
+[[main]]
+  name = "Projects"
   url = "#projects"
+  weight = 20
+  
+[[main]]
+  name = "Services"
+  url = "#services"
   weight = 30
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
