@@ -1,16 +1,17 @@
 ---
 # Display name
-name: David LeBauer
+name: Ryan Bartelme
+weight: 5
 
 # Username (this should match the folder name)
 authors:
-- david-lebauer
+- ryan-bartelme
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Director of Data Science, Agricultural Experiment Station
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -26,16 +27,16 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dlebauer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rbartelme@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dlebauer
+  link: https://twitter.com/MicrobialBart
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=Y___s5cAAAAJ
+  link: https://scholar.google.co.uk/citations?user=zkKcdmcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/dlebauer
+  link: https://github.com/rbartelme
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group Leader
+- Current Members
 ---
 
-David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.
+Ryan Bartelme is a postdoctoral research associate at the University of Arizona School of Information. Ryan is actively working on implementing Bayesian Networks to predict plant phenotypes from environmental and genomic data. He received his interdisciplinary doctorate in Freshwater Sciences from the University of Wisconsin - Milwaukee, and a BS in Microbiology from the University of Wisconsin - Madison. His research background draws from a variety of scientific disciplines, including: genetics, microbial ecology and physiology, ecological statistics, computational biology, environmental chemistry, and aquaculture engineering.

@@ -1,16 +1,17 @@
 ---
 # Display name
-name: David LeBauer
+name: Christophe Schnaufer
+weight: 25
 
 # Username (this should match the folder name)
 authors:
-- david-lebauer
+- christophe-schnaufer
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Director of Data Science, Agricultural Experiment Station
+role: Scientific Programmer, Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +19,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
+bio: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,16 +29,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dlebauer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dlebauer
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=Y___s5cAAAAJ
+  link: 'mailto:schnaufer@email.arizona.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/dlebauer
+  link: https://github.com/Chris-Schnaufer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group Leader
+- Current Members
 ---
 
-David LeBauer, Ph.D. is the Director of Data Science for the Agricultural Experiment Station at the University of Arizona. He is interested in using science to engineer more sustainable and productive crops and agricultural systems, and developing open software and data to integrate data and knowledge across disciplines. Key projects include the Predictive Ecosystem Analyzer (PEcAn) framework for data synthesis and forecasting with crop and ecosystem models and the TERRA Reference phenotyping database and computing pipeline.
+Christophe Schnaufer is a scientific programmer with the Arizona Experiment Station, University of Arizona. He has a degree in computer science and over two decades of experience in software engineering and management, including fifteen years developing commercial airborne imagery applications and data processing pipelines. He is the lead developer of the UA drone pipeline infrastructure and is involved with standing up the processing pipeline at University of Arizona for the world's largest movable agricultural gantry.
