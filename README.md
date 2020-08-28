@@ -13,10 +13,11 @@ Note: General instructions for git / git workflow can be found on our group's OS
 
 #### II. How to add a team member to the People section
 
-1. Within the repo in RStudio, open the `content` > `people` folders
-2. Create a folder with the naming format of `new-person`
-3. To include a photo or headshot in the bio, upload a `.png` image to that person's folder named `featured.png`
-4. Copy `index.md` from another team member's folder and update with new information. Remember to change the team member tag to `current`, `affiliate`, or `past` as needed.
+1. Within the repo in RStudio, open the `content` > `authors` folders
+2. Create a folder with the naming format of `firstname-lastname`
+3. To include a photo or headshot in the bio, upload a `.png` image to that person's folder named `avatar.png`
+4. Copy `_index.md` from another team member's folder and update with new information. Remember to: update `Display name`, `Role/position`, and `Social/Academic Networking`; set `user_groups` to "Current Members", "Affiliates", or "Alumni"; and add a paragraph or two about the person's interests, role in the group, and past experiences at the end after the yml. 
+5. Run `blogdown::serve_site()` in the RStudio console and check social media links are correct on new person page
 
 #### III. How to add a blog post
 
