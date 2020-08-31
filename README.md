@@ -1,6 +1,7 @@
 ## How to Make Changes to the Group Website
 Note: General instructions for git / git workflow can be found on our group's OSF [page](https://osf.io/tzmhp/wiki/Using%20Git%20and%20GitHub/)
 
+Any changes that are merged into the master branch of this repo are automatically published to the website. 
 
 #### I. Getting started
 
