@@ -37,7 +37,19 @@ Any changes that are merged into the master branch of this repo are automaticall
 
 The content for each publication goes in a folder `content/publication/author-YYYY`.
 
-This folder can be generated automatically from a bibtex file. Most reference management software and search portals (e.g. Mendeley, Zotero, Google Scholar) provide an option to export a citation as bibtex. There is a tool to automatically generate the folder, index.md, and cite.bib files for each publication using the shell command `academic import --bibtex <path_to_your/publication.bib>` following [the Academic Hugo documentation](https://sourcethemes.com/academic/docs/managing-content/#create-a-publication))
+This folder can be generated automatically from a bibtex file. Most reference management software and search portals (e.g. Mendeley, Zotero, Google Scholar) provide an option to export a citation as bibtex. There is a tool to automatically generate the folder, index.md, and cite.bib files for each publication. To do this, first install the [`academic-cli` library](https://github.com/wowchemy/hugo-academic-cli):
+
+```
+pip3 install -U academic
+```
+
+Then use the shell command:
+
+```
+academic import --bibtex <path_to_your/publication.bib>
+``` 
+
+following [the Academic Hugo documentation](https://sourcethemes.com/academic/docs/managing-content/#create-a-publication))
 
 A minimal set of yaml header fields are described in the [documentation](https://sourcethemes.com/academic/docs/managing-content/#manually). We have changed the default publication type 8 to be data publications by editing `data/publication_types.toml` and `i18n/en.yaml` as described in the documentation. 
 
