@@ -19,6 +19,9 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+# Custom CSS https://github.com/az-digitalag/organization/issues/273
+customCSS = ["ua-bootstrap.css","ua-brand-icons.min.css"]
+
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
