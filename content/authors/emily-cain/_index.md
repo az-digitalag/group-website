@@ -46,7 +46,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Members
+- Alumni
 ---
 
 Emily is a scientific programmer with a focus on curating data from the Agricultural Experiment Station at the University of Arizona for research funded by the National Science Foundation. She is interested in and has studied sustainable agriculture on a global scale at the University of Michigan and Uppsala University in Sweden, and has also worked as a farm apprentice in Texas to support local, community-supported agriculture. She is excited about the possibilities of leveraging technology and data-driven discovery to transform agriculture and its environmental impact.
