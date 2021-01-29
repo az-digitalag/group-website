@@ -17,6 +17,18 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "Training"
+  content = "We teach best practices in computational and data intensive science and reproducible research. See more here:"
+  align = "center"
+
+  overlay_color = "#272935 "  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "DIAG Workshops"
+  cta_url = "https://quizzical-perlman-731692.netlify.app/workshops/"
+  
+[[item]]
   title = "Data Access and Curation"
   content = "We help scientists manage and curate their data. Our services include: Advising on all stages of the data lifecycle, from collection to publication and reuse. Writing and Implementing data management plans. Sharing data through CyVerse, the UA Library, DataOne and other repositories."
   align = "center"
@@ -43,12 +55,4 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-[[item]]
-  title = "Training"
-  content = "We teach best practices in computational and data intensive science and reproducible research."
-  align = "center"
-
-  overlay_color = "#666 "  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
