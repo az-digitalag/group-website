@@ -271,9 +271,3 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
-
-# Enable Netlify CMS
-# https://wowchemy.com/docs/getting-started/cms/
-[cms]
-  netlify_cms = true
