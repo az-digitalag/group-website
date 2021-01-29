@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Digital Agriculture Scientific Analyst at CyVerse.Org
 
 # Organizations/Affiliations
 organizations:
@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Members
+- Affiliates
 ---
 
-Ryan Bartelme is a postdoctoral research associate at the University of Arizona School of Information. Ryan is actively working on implementing Bayesian Networks to predict plant phenotypes from environmental and genomic data. He received his interdisciplinary doctorate in Freshwater Sciences from the University of Wisconsin - Milwaukee, and a BS in Microbiology from the University of Wisconsin - Madison. His research background draws from a variety of scientific disciplines, including: genetics, microbial ecology and physiology, ecological statistics, computational biology, environmental chemistry, and aquaculture engineering.
+Ryan Bartelme is the Digital Agriculture Scientific Analyst at CyVerse.Org. Ryan is actively working on implementing Bayesian Networks to predict plant phenotypes from environmental and genomic data. He received his interdisciplinary doctorate in Freshwater Sciences from the University of Wisconsin - Milwaukee, and a BS in Microbiology from the University of Wisconsin - Madison. His research background draws from a variety of scientific disciplines, including: genetics, microbial ecology and physiology, ecological statistics, computational biology, environmental chemistry, and aquaculture engineering.
