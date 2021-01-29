@@ -26,7 +26,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "DIAG Workshops"
-  cta_url = "https://quizzical-perlman-731692.netlify.app/workshops/"
+  cta_url = "workshops/"
   
 [[item]]
   title = "Data Access and Curation"
