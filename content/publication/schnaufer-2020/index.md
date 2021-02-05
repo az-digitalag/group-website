@@ -19,7 +19,7 @@ In the future we expect that standardization will enable new scientific discover
 Our vision is to create a processing pipeline that is open, flexible, extensible, portable, and automated.
 With modern tools, deploying a pipeline on a laptop or HPC should only take a single command. 
 Running a pipeline and publishing data should require only input data and a defined workflow."
-featured: false
+featured: true
 publication: "Proceedings of SPIE"
 doi: "10.1117/12.2560008"
 ---
